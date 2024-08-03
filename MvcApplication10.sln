@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication10", "MvcApplication10\MvcApplication10.csproj", "{AD357B3F-9BC8-4DAA-A6D9-39B1D130BA3D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Image", "Image", "{ADD80859-6087-4E48-BEE9-F6D4EA2EDC0C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Background", "Background", "{2C90003E-E470-433F-AA6B-4FE59288C2C6}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\images (1) (1).jpg = ..\..\..\..\Downloads\images (1) (1).jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{F5FF212A-00FE-4861-95E9-06C37AD2F235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD357B3F-9BC8-4DAA-A6D9-39B1D130BA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD357B3F-9BC8-4DAA-A6D9-39B1D130BA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD357B3F-9BC8-4DAA-A6D9-39B1D130BA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD357B3F-9BC8-4DAA-A6D9-39B1D130BA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
